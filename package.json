@@ -1,0 +1,24 @@
+{
+  "name": "homebot",
+  "version": "1.0.0",
+  "description": "homebot is for controll home",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@slack/client": "^4.1.0",
+    "ip": "^1.1.5"
+  },
+  "bugs": {
+    "url": "https://github.com/ukiuni/homebot/issues"
+  },
+  "homepage": "https://github.com/ukiuni/homebot",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ukiuni/homebot.git"
+  }
+}
